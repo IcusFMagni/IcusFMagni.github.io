@@ -1,3 +1,12 @@
+
+h1 {
+  font-size: 56px;
+  color: FireBrick;
+}
+h2 {
+  color: FireBrick;
+  font-size: 0.5em;
+}
 p {
   color: red;
   }
